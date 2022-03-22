@@ -1,0 +1,14 @@
+body {
+    background-color: #EFFFFD;
+}
+hr {
+    border-style: none;
+    border-top: 8px dotted lightgray;
+    width: 5%;
+}
+
+img {
+    height: 150px;
+    width: 133px;
+    border-radius: 10px;
+}
